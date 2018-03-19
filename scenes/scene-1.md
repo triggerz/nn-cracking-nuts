@@ -1,6 +1,6 @@
 # Config
  - Title: Cracking nuts with a sledgehammer  
- - Image: http://res.cloudinary.com/triggerz/image/upload/v1513594352/Billede1_ls6myi.png
+ - Image: hhttp://res.cloudinary.com/dertn65o7/image/upload/v1521496030/stock-photo-businessman-pushing-a-boulder-251251270.jpg
 
 # Description
 
