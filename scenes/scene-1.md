@@ -17,9 +17,6 @@ You fully support Christian. You think the required actions will be hard to impl
 # Feedback
 Supporting your employee is admirable - but not if it isn't in the company's best interests. Christian's suggestion is to use a sledgehammer to crack a nut. Full support is not the right decision for this dilemma. 
 
-# Outcome
-X
-
 # Choice
 You take a 1:1 conversation with Christian, followed by a conversation with the production team, where you ask them to suggest alternative actions that can solve the GMP problem. 
 
@@ -34,9 +31,6 @@ You take a 1:1 conversation with Christian, followed by a conversation with the 
 # Feedback
 Letting the different parties present their case is always a good idea. However, convening the 1:1s signals that you are the decision maker and that you have to be in the loop. This might not be an effective solution in the long run. 
 
-# Outcome
-X
-
 # Choice
 You convene a meeting, where everybody can explain their views. Before the meeting, you already know that you will end up supporting the production team. 
 
@@ -45,9 +39,6 @@ You convene a meeting, where everybody can explain their views. Before the meeti
  
 # Feedback
 This could be a reasonable way to solve the issue - setting up a meeting and letting the parties find a solution on their own. This supports employees' decision power. However, deciding who'll have your support before the meeting might not be the right thing to do. 
-
-# Outcome
-X
 
 # Choice
 You let Christian handle this controversy by himself. He has to learn how to handle situations like this, and he can always ask for help.
@@ -58,6 +49,4 @@ You let Christian handle this controversy by himself. He has to learn how to han
 # Feedback
 Leaving your employee to resolve his first controversy without your support might not be the best way to solve this issue. Empowerment is good, but managerial feedback and support is very important for personal development. 
 
-# Outcome
-X
 
